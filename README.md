@@ -1,3 +1,11 @@
+## EDA Assignment - Distributed Systems.
 
+__Name:__ Stephen Power
 
-aws s3 cp test.txt s3://a-bucket/test.txt --metadata '{"x-amz-meta-cms-id":"34533452"}'
+__YouTube Demo link__ - https://youtu.be/9xZ9awRa0nU
+
+### Phase 1.
+
++ Confirmation Mailer - Fully implemented.
++ Rejection Mailer - Not implemented
++ Process Image - Fully implemented
